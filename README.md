@@ -19,6 +19,11 @@ MCP server registry every other morning, dedupes, reads the top items in
 full, and renders a self-contained dashboard. $0 to run, no API keys.
 [Live example →](https://convertleads.pro/tools/signals-radar-gitHub-reddit-youtube-x/)
 
+**[Lovable + Claude + Vercel Playbook](https://github.com/ljkhgjvchf/lovable-claude-vercel-playbook)** —
+how I actually built convertleads.pro with AI tools: real prompts, honest
+pros/cons, and the proof (70% of recent commits are just "Changes" — building
+with AI still takes real iteration, not one prompt).
+
 ---
 
 Open to consulting engagements — AI automation for marketing, growth, and
