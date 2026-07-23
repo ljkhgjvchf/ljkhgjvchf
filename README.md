@@ -26,7 +26,7 @@ items in full, and renders a self-contained dashboard. $0 to run, no API
 keys.
 [Live example →](https://convertleads.pro/tools/signals-radar-gitHub-reddit-youtube-x/)
 
-### 🧱 [Website Building Playbook](https://github.com/ljkhgjvchf/lovable-claude-vercel-playbook)
+### 🧱 [Website Building Playbook](https://github.com/ljkhgjvchf/website-building-playbook)
 How I actually built convertleads.pro with Lovable, Claude, and Vercel: the
 real prompts, honest pros/cons, and the proof. 139 commits from first prompt
 to today, 24 just fixing broken logos, 7 full rollbacks, and one full brand
