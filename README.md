@@ -26,13 +26,13 @@ I write the long version on [convertleads.xyz](https://www.convertleads.xyz) and
 
 ### Projects
 
-**🔎 [Website SEO, funnel, CRO and automation system](https://github.com/ljkhgjvchf/website-seo-funnel-cro-automation-system)**
+**🔎 [Website SEO, funnel, CRO and automation system](https://github.com/ljkhgjvchf/website-seo-funnel-cro-automation-system)**<br>
 4 Claude Code skills that find why a website isn't making money. Run them in order on a live URL: SEO, lead capture, CRO, nurture.
 
-**🛰️ [Signals Radar](https://github.com/ljkhgjvchf/signals-radar)**
+**🛰️ [Signals Radar](https://github.com/ljkhgjvchf/signals-radar)**<br>
 Free AI signal scraper. Sweeps GitHub Trending, Reddit, YouTube and the MCP registry, then builds a dashboard. $0 to run, no API keys.
 
-**🧱 [Website Building Playbook](https://github.com/ljkhgjvchf/website-building-playbook)**
+**🧱 [Website Building Playbook](https://github.com/ljkhgjvchf/website-building-playbook)**<br>
 How I built my site with Lovable, Claude and Vercel. 139 commits, 24 of them fixing broken logos, 7 rollbacks, one brand pivot mid-build.
 
 ---
