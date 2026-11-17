@@ -16,24 +16,11 @@ I write the long version on [convertleads.xyz](https://www.convertleads.xyz) and
 
 ### Currently
 
-- Shipping one Claude Code skill or template every Friday, with a LinkedIn post that shows it running
-- Running creator and affiliate growth for an edtech brand: every sale traced to a name
+- Shipping one Claude Code skill or template every Friday
+- Running creator and affiliate growth
 - Automating content for an EU innovation body: [45 min to 5 min per article](https://www.convertleads.xyz/case-studies/eit-content-automation)
 
 **Next up:** a marketing dashboard template on sandbox data (20 Nov), then a creator outreach pipeline skill (27 Nov).
-
----
-
-### Projects
-
-**🔎 [Website SEO, funnel, CRO and automation system](https://github.com/ljkhgjvchf/website-seo-funnel-cro-automation-system)**<br>
-4 Claude Code skills that find why a website isn't making money. Run them in order on a live URL: SEO, lead capture, CRO, nurture.
-
-**🛰️ [Signals Radar](https://github.com/ljkhgjvchf/signals-radar)**<br>
-Free AI signal scraper. Sweeps GitHub Trending, Reddit, YouTube and the MCP registry, then builds a dashboard. $0 to run, no API keys.
-
-**🧱 [Website Building Playbook](https://github.com/ljkhgjvchf/website-building-playbook)**<br>
-How I built my site with Lovable, Claude and Vercel. 139 commits, 24 of them fixing broken logos, 7 rollbacks, one brand pivot mid-build.
 
 ---
 
